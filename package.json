@@ -60,7 +60,8 @@
     "ms": "^2.1.2",
     "natural": "^2.1.5",
     "node-unzip-2": "^0.2.8",
-    "ora": "^5.1.0"
+    "ora": "^5.1.0",
+    "prettier": "^2.3.0"
   },
   "devDependencies": {
     "eslint": "^7.11.0",
